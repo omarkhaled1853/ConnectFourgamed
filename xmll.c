@@ -1,3 +1,6 @@
+
+//this file not releat project with test with my frind
+//
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
