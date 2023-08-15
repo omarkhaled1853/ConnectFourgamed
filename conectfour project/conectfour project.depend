@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1672442224 source:c:\term1\ffffffffproject\conectfour project\main.c
+	<stdio.h>
+	<string.h >
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	"color.h"
+	"score.h"
+	"printArrays.h"
+	"undo_redo.h"
+	"highscore.h"
+	"xml.h"
+	"save_load.h"
+	"select column.h"
+
+1672408720 c:\term1\ffffffffproject\conectfour project\color.h
+
+1672408416 c:\term1\ffffffffproject\conectfour project\score.h
+
+1672407868 c:\term1\ffffffffproject\conectfour project\printarrays.h
+
+1672432538 c:\term1\ffffffffproject\conectfour project\undo_redo.h
+
+1672440120 c:\term1\ffffffffproject\conectfour project\highscore.h
+
+1672407854 c:\term1\ffffffffproject\conectfour project\xml.h
+
+1672433502 c:\term1\ffffffffproject\conectfour project\save_load.h
+
+1672441298 c:\term1\ffffffffproject\conectfour project\select column.h
+
